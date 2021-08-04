@@ -1,13 +1,11 @@
-# hori-web-project
-
-Horiseon Social Solution Services
+# Horiseon Social Solution Services
 
 Updated version to bring more accessibility.
 
 ```
 AS A marketing agency
 Horiseon Social Solution Services now have a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+SO THAT their own site is optimized for search engines
 ```
 
 
