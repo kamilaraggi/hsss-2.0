@@ -8,7 +8,8 @@ Horiseon Social Solution Services now have a codebase that follows accessibility
 SO THAT their own site is optimized for search engines
 ```
 
-
+##Deployed URL
+https://kamilaraggi.github.io/HSSS-2.0/
 
 
 ![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/84299745/127920630-66d98859-738c-4c05-a7a7-d14ea54b73c4.png)
